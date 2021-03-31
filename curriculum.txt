@@ -1,4 +1,0 @@
-nombre : Nico Steffolani
-DNI : 12345678
-Tel : 3511234567
-
