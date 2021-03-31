@@ -1,3 +1,3 @@
 <p>Nico Steffolani</p>
 
-<a href="/home/nico/repositorios/tp1/curriculum.txt">Curriculum</a>
+<a href="curriculum.md">Curriculum</a>
