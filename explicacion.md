@@ -6,6 +6,8 @@
 
 ![Screenshot](pullrequest3.png)
 
+<p>Herramienta para hacer el merge en visual studio</p>
+
 ![Screenshot](merge.png)
 
 <p>Versiones LOCAL, BASE y REMOTE: LOCAL is my local branch, BASE is 
